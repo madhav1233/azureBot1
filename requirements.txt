@@ -1,10 +1,2 @@
 Flask==2.2.5
--e git+https://github.com/Microsoft/botbuilder-python.git@40a4f6062d9a5f72cda99b802456c03acd4bf859#egg=botbuilder_adapters_slack&subdirectory=libraries/botbuilder-adapters-slack
--e git+https://github.com/Microsoft/botbuilder-python.git@40a4f6062d9a5f72cda99b802456c03acd4bf859#egg=botbuilder_ai&subdirectory=libraries/botbuilder-ai
--e git+https://github.com/Microsoft/botbuilder-python.git@40a4f6062d9a5f72cda99b802456c03acd4bf859#egg=botbuilder_applicationinsights&subdirectory=libraries/botbuilder-applicationinsights
--e git+https://github.com/Microsoft/botbuilder-python.git@40a4f6062d9a5f72cda99b802456c03acd4bf859#egg=botbuilder_azure&subdirectory=libraries/botbuilder-azure
--e git+https://github.com/Microsoft/botbuilder-python.git@40a4f6062d9a5f72cda99b802456c03acd4bf859#egg=botbuilder_core&subdirectory=libraries/botbuilder-core
--e git+https://github.com/Microsoft/botbuilder-python.git@40a4f6062d9a5f72cda99b802456c03acd4bf859#egg=botbuilder_integration_applicationinsights_aiohttp&subdirectory=libraries/botbuilder-integration-applicationinsights-aiohttp
--e git+https://github.com/Microsoft/botbuilder-python.git@40a4f6062d9a5f72cda99b802456c03acd4bf859#egg=botbuilder_schema&subdirectory=libraries/botbuilder-schema
--e git+https://github.com/Microsoft/botbuilder-python.git@40a4f6062d9a5f72cda99b802456c03acd4bf859#egg=botframework_connector&subdirectory=libraries/botframework-connector
--e git+https://github.com/Microsoft/botbuilder-python.git@40a4f6062d9a5f72cda99b802456c03acd4bf859#egg=botframework_streaming&subdirectory=libraries/botframework-streaming
+botbuilder
